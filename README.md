@@ -11,6 +11,7 @@ Welcome to the Intel and AWS IoT Workshop. In this workshop, we will explore IoT
   - Lab - [Setup the Up<sup>2</sup> Board Hardware](https://ssg-drd-iot.github.io/lab-up2-setup),
   - Lab - [Extra Infomration - Setup Alternative IDEs](https://ssg-drd-iot.github.io/doc-alternative-IDEs)
   
+  
   * **Software Defined Industrial Systems - Sensors**
   - Slides - [Sensor and Actuators](./presentations/03-Sensors-and-Actuators.pptx)
   - Video - [Input and Output with MRAA](https://www.youtube.com/watch?v=hY4HudLuvEM)
