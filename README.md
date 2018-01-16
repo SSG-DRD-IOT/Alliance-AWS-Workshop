@@ -8,6 +8,13 @@ Welcome to the Intel and AWS IoT Workshop. In this workshop, we will explore IoT
 * **Introduction to Internet of Things**
   - Slide Deck - Introduction to IoT with Intel and AWS
   - Video - [Industrial Applications](https://www.intel.com/content/www/us/en/industrial-automation/overview.html)
+  - Lab - [Setup the Up<sup>2</sup> Board Hardware](https://ssg-drd-iot.github.io/lab-up2-setup),
+  - Lab - [Extra Infomration - Setup Alternative IDEs](https://ssg-drd-iot.github.io/doc-alternative-IDEs)
+  
+  * **Software Defined Industrial Systems - Sensors**
+  - Slides - [Sensor and Actuators](./presentations/03-Sensors-and-Actuators.pptx)
+  - Video - [Input and Output with MRAA](https://www.youtube.com/watch?v=hY4HudLuvEM)
+  - Lab - [Sensors and Actuators](https://ssg-drd-iot.github.io/toc-sensors)
 
 * **Feedback, Survey and Conclusion**
 
