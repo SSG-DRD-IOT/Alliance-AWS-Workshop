@@ -17,6 +17,10 @@ Welcome to the Intel and AWS IoT Workshop. In this workshop, we will explore IoT
   - Video - [Input and Output with MRAA](https://www.youtube.com/watch?v=hY4HudLuvEM)
   - Lab - [Sensors and Actuators](https://ssg-drd-iot.github.io/toc-sensors)
 
+* **AWS IoT**
+  - Slides
+  - Lab - [AWS IoT Basics](https://ssg-drd-iot.github.io/lab-aws-iot)
+
 * **Feedback, Survey and Conclusion**
 
 
