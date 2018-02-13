@@ -13,7 +13,7 @@ Welcome to the Intel and AWS IoT Workshop. In this workshop, we will explore IoT
   
   
 * **Software Defined Industrial Systems - Sensors**
-  - Slides - [Sensor and Actuators](./presentations/03-Sensors-and-Actuators.pptx)
+  - Slides - [Sensor and Actuators](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/03-Sensors-and-Actuators.pptx)
   - Video - [Input and Output with MRAA](https://www.youtube.com/watch?v=hY4HudLuvEM)
   - Lab - [Sensors and Actuators](https://ssg-drd-iot.github.io/toc-sensors)
 
