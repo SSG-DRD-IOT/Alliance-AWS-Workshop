@@ -22,7 +22,7 @@ Welcome to the Intel and AWS IoT Workshop. In this workshop, we will explore IoT
   - Lab - [AWS IoT Basics](https://ssg-drd-iot.github.io/lab-aws-iot/)
   
 * **AWS Greengrass**
--Lab - [AWS Greengrass](https://ssg-drd-iot.github.io/lab-aws-greengrass/)
+  - Lab - [AWS Greengrass](https://ssg-drd-iot.github.io/lab-aws-greengrass/)
 
 * **Feedback, Survey and Conclusion**
 
