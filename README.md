@@ -6,7 +6,7 @@ Welcome to the Intel and AWS IoT Workshop. In this workshop, we will explore IoT
 
 ## Workshop Agenda
 * **Introduction to Internet of Things**
-  - Slide Deck - Introduction to IoT with Intel and AWS
+  - Slide Deck - [Introduction to IoT with Intel and AWS](https://github.com/SSG-DRD-IOT/Alliance-AWS-Workshop/blob/master/Intel%20and%20AWS.pptx)
   - Video - [Industrial Applications](https://www.intel.com/content/www/us/en/industrial-automation/overview.html)
   - Lab - [Setup the Up<sup>2</sup> Board Hardware](https://ssg-drd-iot.github.io/lab-up2-setup),
   - Lab - [Extra Infomration - Setup Alternative IDEs](https://ssg-drd-iot.github.io/doc-alternative-IDEs)
