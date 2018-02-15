@@ -18,7 +18,7 @@ Welcome to the Intel and AWS IoT Workshop. In this workshop, we will explore IoT
   - Lab - [Sensors and Actuators](https://ssg-drd-iot.github.io/toc-sensors)
 
 * **AWS IoT**
-  - Slides
+  - Slides - [AWS IoT Overview](https://github.com/SSG-DRD-IOT/Alliance-AWS-Workshop/blob/master/AWS_IoT_Workshop_2017_public.pdf)
   - Lab - [AWS IoT Basics](https://ssg-drd-iot.github.io/lab-aws-iot/)
   
 * **AWS Greengrass**
