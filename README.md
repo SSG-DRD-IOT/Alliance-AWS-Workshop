@@ -8,7 +8,7 @@ Welcome to the Intel and AWS IoT Workshop. In this workshop, we will explore IoT
 * **Introduction to Internet of Things**
   - Slide Deck - [Introduction to IoT with Intel and AWS](https://github.com/SSG-DRD-IOT/Alliance-AWS-Workshop/blob/master/Intel%20and%20AWS.pptx)
   - Video - [Industrial Applications](https://www.intel.com/content/www/us/en/industrial-automation/overview.html)
-  - Lab - [Setup the Up<sup>2</sup> Board Hardware](https://ssg-drd-iot.github.io/lab-up2-setup),
+  - Lab - [Setup the Up<sup>2</sup> Board Hardware](https://ssg-drd-iot.github.io/lab-up2-setup)
   - Lab - [Extra Infomration - Setup Alternative IDEs](https://ssg-drd-iot.github.io/doc-alternative-IDEs)
   
   
@@ -25,6 +25,10 @@ Welcome to the Intel and AWS IoT Workshop. In this workshop, we will explore IoT
   - Lab - [AWS Greengrass](https://ssg-drd-iot.github.io/lab-aws-greengrass/)
 
 * **Feedback, Survey and Conclusion**
+
+* **Support Content**
+  - UP2 Board [Setup Instructions](https://github.com/SSG-DRD-IOT/lab-up2-setup/tree/milano-workshop)
+  - Additional [Lab Material](https://github.com/SSG-DRD-IOT/toc-sensors/tree/milano-workshop) 
 
 
 ## Hardware Used in this Workshop
